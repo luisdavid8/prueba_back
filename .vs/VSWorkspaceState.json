@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\controllers",
+    "\\api\\database",
+    "\\api\\models",
+    "\\api\\routes",
+    "\\api\\services"
+  ],
+  "SelectedNode": "\\contactos_db.sql",
+  "PreviewInSolutionExplorer": false
+}
