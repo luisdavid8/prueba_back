@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\contactos_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contactos_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\controllers\\contacto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\controllers\\contacto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -25,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\database\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\database\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\contactos_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contactos_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "contactos_db.sql ",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\contactos_db.sql",
+              "RelativeDocumentMoniker": "contactos_db.sql",
+              "ToolTip": "contactos_db.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-28T19:00:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appi.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\appi.js",
               "RelativeDocumentMoniker": "api\\appi.js",
@@ -46,12 +65,11 @@
               "RelativeToolTip": "api\\appi.js",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-27T17:19:58.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T17:19:58.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "contacto.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\models\\contacto.js",
               "RelativeDocumentMoniker": "api\\models\\contacto.js",
@@ -59,12 +77,11 @@
               "RelativeToolTip": "api\\models\\contacto.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-27T17:11:26.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T17:11:26.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\index.js",
               "RelativeDocumentMoniker": "api\\index.js",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "api\\index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-27T17:09:10.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T17:09:10.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "db.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\database\\db.js",
               "RelativeDocumentMoniker": "api\\database\\db.js",
@@ -85,25 +101,24 @@
               "RelativeToolTip": "api\\database\\db.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-27T05:02:49.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T05:02:49.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "contacto.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\controllers\\contacto.js",
               "RelativeDocumentMoniker": "api\\controllers\\contacto.js",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\controllers\\contacto.js",
               "RelativeToolTip": "api\\controllers\\contacto.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-01-27T04:54:00.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "contacto.js",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Trabajo\\Proyectos\\prueba_back\\api\\routes\\contacto.js",
               "RelativeDocumentMoniker": "api\\routes\\contacto.js",
@@ -111,8 +126,7 @@
               "RelativeToolTip": "api\\routes\\contacto.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-27T04:53:11.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T04:53:11.935Z"
             }
           ]
         },
